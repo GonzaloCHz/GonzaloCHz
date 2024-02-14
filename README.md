@@ -1,10 +1,16 @@
-<div align="center">
-<h1 align="center">Hi, I'm <a >GonzaloCHz</a> 👋</h1>
-</div>
-### ⚙️ &nbsp;GitHub Analytics
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-<a href="https://github.com/GonzaloCHz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GonzaloCHz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm GonzaloCHz</h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
