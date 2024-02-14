@@ -14,3 +14,10 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/GonzaloCHz">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GonzaloCHz&themealgolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
